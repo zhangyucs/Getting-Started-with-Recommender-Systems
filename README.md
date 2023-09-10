@@ -58,6 +58,18 @@ Michael Nielsen，译者Xovee。是一本免费的在线书籍，它将教你神
 
 ### 期刊
 
+| 期刊简称                                                                                | 期刊全称                                                      | Impact Factor | Cite Score | SCI | CCF |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------- | ---------- | --- | --- |
+| [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)                | IEEE Transactions on Multimedia                           | 7.3           | 13.1       | 1区  | B   |
+| [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)           | IEEE Transactions on Neural Networks and Learning Systems | 11.2          | 21.9       | 1区  | B   |
+| [TORS](https://dl.acm.org/journal/tors)                                             | ACM Transactions on Recommender Systems                   | -             | -          | -   | -   |
+| [TOIS](https://dl.acm.org/journal/tois)                                             | ACM Transactions on Information Systems                   | 5.6           | 10.7       | 2区  | A   |
+| [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)                 | IEEE Transactions on Knowledge and Data Engineering       | 8.9           | 12.4       | 2区  | A   |
+| [IP&M](https://www.sciencedirect.com/journal/information-processing-and-management) | Information Processing & Management                       | 8.6           | 14.8       | 1区  | B   |
+| [ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications)      | Expert Systems with Applications                          | 8.5           | 12.6       | 1区  | C   |
+| [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)                | Knowledge-Based Systems                                   | 8.8           | 12.3       | 1区  | C   |
+| [IS](https://www.sciencedirect.com/journal/information-sciences)                    | Information Sciences                                      | 8.1           | 13.4       | 1区  | B   |
+
 ### 数据集
 Shopping
 Amazon
