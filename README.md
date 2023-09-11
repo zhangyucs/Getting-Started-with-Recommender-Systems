@@ -1,4 +1,4 @@
-# brief-hand-book-of-recommender-system
+# Getting Started with Recommender Systems
 
 ## 一、	机器学习
 
