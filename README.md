@@ -54,7 +54,7 @@ Michael Nielsen，译者Xovee。是一本免费的在线书籍，它将教你神
 
 ### 会议
 
-| 会议简称                                               | 会议全称                                                                                                      | 类型            |     |
+| 会议简称                                               | 会议全称                                                                                                      | 类型            | CCF |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------- | --- |
 | [SIGKDD](https://dblp.uni-trier.de/db/conf/kdd)    | ACM Conference on Knowledge Discovery and Data Mining                                                     | 数据库/数据挖掘/内容检索 | A   |
 | [SIGIR](https://dblp.uni-trier.de/db/conf/sigir)   | International Conference on Research and Development in Information Retrieval | 数据库/数据挖掘/内容检索 | A   |
