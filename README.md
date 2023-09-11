@@ -89,10 +89,10 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 
 ### 数据集
 #### Shopping
-[Amazon](http://jmcauley.ucsd.edu/data/amazon/)：Amazon数据集是一个由Amazon公司提供的商品评价和元数据的数据集，用于推荐系统和自然语言处理的研究和开发。这个数据集包含了从1996年到2018年期间的用户对亚马逊网站上不同类别商品的评分、标签和评论等信息，涉及了数百万个用户和数千万个商品。  
+[**Amazon**](http://jmcauley.ucsd.edu/data/amazon/)：Amazon数据集是一个由Amazon公司提供的商品评价和元数据的数据集，用于推荐系统和自然语言处理的研究和开发。这个数据集包含了从1996年到2018年期间的用户对亚马逊网站上不同类别商品的评分、标签和评论等信息，涉及了数百万个用户和数千万个商品。  
 &emsp;[2013版](http://snap.stanford.edu/data/web-Amazon-links.html)，[2014版](http://jmcauley.ucsd.edu/data/amazon/index_2014.html)，[2018版](https://nijianmo.github.io/amazon/index.html)  
-[Taobao](https://tianchi.aliyun.com/datalab/dataSet.htm?spm=5176.100073.888.13.62f83f62aOlMEI&id=1)：该数据集包含了匿名用户在“双十一”前后6个月的购物记录，以及表明他们是否重复购买的标签信息。由于隐私问题，数据采集存在偏差，因此该数据集的统计结果会与天猫的实际情况相背离。  
-[Yelp](https://www.yelp.com/dataset)：这个数据集是从Yelp收集的。Yelp数据集是商家、评论和用户数据的一个子集，可用于个人、教育和学术目的。从2018年Yelp挑战赛开始，总共有四个版本的Yelp数据集。  
+[**Taobao**](https://tianchi.aliyun.com/datalab/dataSet.htm?spm=5176.100073.888.13.62f83f62aOlMEI&id=1)：该数据集包含了匿名用户在“双十一”前后6个月的购物记录，以及表明他们是否重复购买的标签信息。由于隐私问题，数据采集存在偏差，因此该数据集的统计结果会与天猫的实际情况相背离。  
+[**Yelp**](https://www.yelp.com/dataset)：这个数据集是从Yelp收集的。Yelp数据集是商家、评论和用户数据的一个子集，可用于个人、教育和学术目的。从2018年Yelp挑战赛开始，总共有四个版本的Yelp数据集。  
 &emsp;[2018版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/versions/1)，[2020版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=2)，[2021版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=3)，[2022版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=4)  
 [Epinions](https://snap.stanford.edu/data/soc-Epinions1.html)：这个数据集是从Epinions.com收集的，Epinions.com是一个流行的在线消费者评论网站。它包含了用户之间的信任关系，并跨越了十多年的时间，从2001年1月到2013年11月。  
 [Tmall](https://tianchi.aliyun.com/dataset/53)：该数据集由蚂蚁金服提供，用于IJCAI16竞赛。  
