@@ -82,10 +82,10 @@ Michael Nielsen，译者Xovee。是一本免费的在线书籍，它将教你神
 | [TORS](https://dl.acm.org/journal/tors)                                             | ACM Transactions on Recommender Systems                   | -             | -          | -   | -   |
 | [TOIS](https://dl.acm.org/journal/tois)                                             | ACM Transactions on Information Systems                   | 5.6           | 10.7       | 2区  | A   |
 | [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)                 | IEEE Transactions on Knowledge and Data Engineering       | 8.9           | 12.4       | 2区  | A   |
-| [IP&M](https://www.sciencedirect.com/journal/information-processing-and-management) | Information Processing & Management                       | 8.6           | 14.8       | 1区  | B   |
-| [ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications)      | Expert Systems with Applications                          | 8.5           | 12.6       | 1区  | C   |
-| [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)                | Knowledge-Based Systems                                   | 8.8           | 12.3       | 1区  | C   |
-| [IS](https://www.sciencedirect.com/journal/information-sciences)                    | Information Sciences                                      | 8.1           | 13.4       | 1区  | B   |
+| [IP&M](https://www.sciencedirect.com/journal/information-processing-and-management) | Elsevier Information Processing & Management                       | 8.6           | 14.8       | 1区  | B   |
+| [ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications)      | Elsevier Expert Systems with Applications                          | 8.5           | 12.6       | 1区  | C   |
+| [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)                | Elsevier Knowledge-Based Systems                                   | 8.8           | 12.3       | 1区  | C   |
+| [IS](https://www.sciencedirect.com/journal/information-sciences)                    | Elsevier Information Sciences                                      | 8.1           | 13.4       | 1区  | B   |
 
 CCF推荐国际学术刊物：
 https://www.ccf.org.cn/Academic_Evaluation/By_category/  
