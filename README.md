@@ -88,9 +88,9 @@ Michael Nielsen，译者Xovee。是一本免费的在线书籍，它将教你神
 | [IS](https://www.sciencedirect.com/journal/information-sciences)                    | Information Sciences                                      | 8.1           | 13.4       | 1区  | B   |
 
 CCF推荐国际学术刊物：
-https://www.ccf.org.cn/Academic_Evaluation/By_category/
+https://www.ccf.org.cn/Academic_Evaluation/By_category/  
 CCF计算领域高质量科技期刊分级目录：
-https://www.ccf.org.cn/ccftjgjxskwml/
+https://www.ccf.org.cn/ccftjgjxskwml/  
 
 ### 数据集
 #### Shopping
