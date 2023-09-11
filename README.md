@@ -17,7 +17,7 @@
 吴恩达机器学习（2022）：https://www.coursera.org/specializations/machine-learning-introduction  
 林轩田机器学习基石：https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf  
 林轩田机器学习技法：https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2  
-机器学习白板推导：https://www.bilibili.com/video/BV1aE411o7qd/  
+机器学习白板推导：[B站](https://www.bilibili.com/video/BV1aE411o7qd/)，[YouTube](https://www.youtube.com/watch?v=f474MY-5sw8&list=PLOxMGJ_8X74aGAJ2I_buAi6yV3XuTY61g)  
 
 ## 二、	深度学习
 
@@ -32,13 +32,10 @@
 Michael Nielsen，译者Xovee。是一本免费的在线书籍，它将教你神经网络和深度学习的核心概念。原书被译者Xovee翻译成中译版，可以在CSDN阅读。  
 
 ### 课程
-吴恩达深度学习：https://www.bilibili.com/video/BV1FT4y1E74V/  
-李沐动手学深度学习 PyTorch版：https://space.bilibili.com/1567748478/  
-李宏毅机器学习：https://www.bilibili.com/video/BV1TD4y137mP/  
+吴恩达深度学习：https://www.coursera.org/deeplearning-ai  
+李沐动手学深度学习 PyTorch版：https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497  
+李宏毅机器学习：https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php  
 邱锡鹏神经网络与深度学习：https://space.bilibili.com/434832966/  
-
-### 博客
-深度学习教程中文笔记：https://github.com/fengdu78/deeplearning_ai_books  
 
 ## 三、	推荐系统入门
 [《Recommender System Handbook》](https://book.douban.com/subject/26806263/)/[《推荐系统：技术、评估及高效算法》](https://book.douban.com/subject/26437066/)  
@@ -87,10 +84,8 @@ Michael Nielsen，译者Xovee。是一本免费的在线书籍，它将教你神
 | [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)                | Elsevier Knowledge-Based Systems                                   | 8.8           | 12.3       | 1区  | C   |
 | [IS](https://www.sciencedirect.com/journal/information-sciences)                    | Elsevier Information Sciences                                      | 8.1           | 13.4       | 1区  | B   |
 
-CCF推荐国际学术刊物：
-https://www.ccf.org.cn/Academic_Evaluation/By_category/  
-CCF计算领域高质量科技期刊分级目录：
-https://www.ccf.org.cn/ccftjgjxskwml/  
+CCF推荐国际学术刊物：https://www.ccf.org.cn/Academic_Evaluation/By_category/  
+CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjgjxskwml/  
 
 ### 数据集
 #### Shopping
