@@ -56,6 +56,23 @@ Michael Nielsen，译者Xovee。是一本免费的在线书籍，它将教你神
 
 ### 会议
 
+| 会议简称                                               | 会议全称                                                                                                      | 类型            |     |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------- | --- |
+| [SIGKDD](https://dblp.uni-trier.de/db/conf/kdd)    | ACM Conference on Knowledge Discovery and Data Mining                                                     | 数据库/数据挖掘/内容检索 | A   |
+| [SIGIR](https://dblp.uni-trier.de/db/conf/sigir)   | International Conference on Research and Development in Information Retrieval | 数据库/数据挖掘/内容检索 | A   |
+| [ICDE](https://dblp.uni-trier.de/db/conf/icde)     | IEEE International Conference on Data Engineering                                                         | 数据库/数据挖掘/内容检索 | A   |
+| [IJCAI](https://dblp.uni-trier.de/db/conf/ijcai)   | International Joint Conference on Artificial Intelligence                                                 | 人工智能          | A   |
+| [ICML](https://dblp.uni-trier.de/db/conf/icml)     | International Conference on Machine Learning                                                              | 人工智能          | A   |
+| [NeurIPS](https://dblp.uni-trier.de/db/conf/nips)  | Conference on Neural Information Processing Systems                                                       | 人工智能          | A   |
+| [AAAI](https://dblp.uni-trier.de/db/conf/aaai)     | Conference on Artificial Intelligence                                                                     | 人工智能          | A   |
+| [WWW](https://dblp.uni-trier.de/db/conf/www)       | International World Wide Web Conference                                                                   | 交叉/综合/新兴      | A   |
+| [ACM MM](https://dblp.uni-trier.de/db/conf/mm)     | ACM International Conference on Multimedia                                                                | 计算机图形学与多媒体    | A   |
+| [RecSys](https://dblp.uni-trier.de/db/conf/recsys) | ACM Conference on Recommender Systems                                                                     | 数据库/数据挖掘/内容检索 | B   |
+| [CIKM](https://dblp.uni-trier.de/db/conf/cikm)     | ACM International Conference on Information and Knowledge Management                                      | 数据库/数据挖掘/内容检索 | B   |
+| [ICDM](https://dblp.uni-trier.de/db/conf/icdm)     | International Conference on Data Mining                                                                   | 数据库/数据挖掘/内容检索 | B   |
+| [WSDM](https://dblp.uni-trier.de/db/conf/wsdm)     | International Conference on Web Search and Data Mining                                                    | 数据库/数据挖掘/内容检索 | B   |
+| [DASFAA](https://dblp.uni-trier.de/db/conf/dasfaa) | International Conference on Database Systems for Advanced Applications                                    | 数据库/数据挖掘/内容检索 | B   |
+
 ### 期刊
 
 | 期刊简称                                                                                | 期刊全称                                                      | Impact Factor | Cite Score | SCI | CCF |
