@@ -29,7 +29,7 @@
 [《神经网络与深度学习》](https://github.com/nndl/nndl.github.io)  
 邱锡鹏，较全面地介绍了神经网络、机器学习和深度学习的基本概念、模型和方法，同时也涉及深度学习中许多最新进展．书后还提供了相关数学分支的简要介绍，以供读者需要时参考。  
 [《Neural Networks and Deep Learning》](https://github.com/Xovee/simplified-chinese-translation-of-neural-networks-and-deep-learning/tree/master)  
-Michael Nielsen，译者Xovee。是一本免费的在线书籍，它将教你神经网络和深度学习的核心概念。原书被译者Xovee翻译成中译版，可以在CSDN阅读。  
+Michael Nielsen，译者Xovee。是一本免费的在线书籍，它将教你神经网络和深度学习的核心概念。原书被译者Xovee翻译成[中译版](https://blog.csdn.net/xovee/article/details/81384670)。  
 
 ### 课程
 吴恩达深度学习：https://www.coursera.org/deeplearning-ai  
