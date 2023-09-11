@@ -94,80 +94,80 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 [**Taobao**](https://tianchi.aliyun.com/datalab/dataSet.htm?spm=5176.100073.888.13.62f83f62aOlMEI&id=1)：该数据集包含了匿名用户在“双十一”前后6个月的购物记录，以及表明他们是否重复购买的标签信息。由于隐私问题，数据采集存在偏差，因此该数据集的统计结果会与天猫的实际情况相背离。  
 [**Yelp**](https://www.yelp.com/dataset)：这个数据集是从Yelp收集的。Yelp数据集是商家、评论和用户数据的一个子集，可用于个人、教育和学术目的。从2018年Yelp挑战赛开始，总共有四个版本的Yelp数据集。  
 &emsp;[2018版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/versions/1)，[2020版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=2)，[2021版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=3)，[2022版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=4)  
-[Epinions](https://snap.stanford.edu/data/soc-Epinions1.html)：这个数据集是从Epinions.com收集的，Epinions.com是一个流行的在线消费者评论网站。它包含了用户之间的信任关系，并跨越了十多年的时间，从2001年1月到2013年11月。  
-[Tmall](https://tianchi.aliyun.com/dataset/53)：该数据集由蚂蚁金服提供，用于IJCAI16竞赛。  
-[DIGINETICA](https://competitions.codalab.org/competitions/11161)：包括从电子商务搜索引擎日志中提取的用户会话，以及匿名用户 ID、散列查询、散列查询术语、散列产品描述和元数据、日志标度价格、点击和购买。  
-[Retailrocket](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)：数据是从现实世界的电子商务网站收集的。它是原始数据，即没有任何内容转换，但是，由于机密问题，所有值都经过哈希处理。  
-[Ta Feng](https://www.kaggle.com/datasets/chiranjivdas09/ta-feng-grocery-dataset)：包含2000年11月至2001年2月的中国杂货店交易数据。  
+[**Epinions**](https://snap.stanford.edu/data/soc-Epinions1.html)：这个数据集是从Epinions.com收集的，Epinions.com是一个流行的在线消费者评论网站。它包含了用户之间的信任关系，并跨越了十多年的时间，从2001年1月到2013年11月。  
+[**Tmall**](https://tianchi.aliyun.com/dataset/53)：该数据集由蚂蚁金服提供，用于IJCAI16竞赛。  
+[**DIGINETICA**](https://competitions.codalab.org/competitions/11161)：包括从电子商务搜索引擎日志中提取的用户会话，以及匿名用户 ID、散列查询、散列查询术语、散列产品描述和元数据、日志标度价格、点击和购买。  
+[**Retailrocket**](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)：数据是从现实世界的电子商务网站收集的。它是原始数据，即没有任何内容转换，但是，由于机密问题，所有值都经过哈希处理。  
+[**Ta Feng**](https://www.kaggle.com/datasets/chiranjivdas09/ta-feng-grocery-dataset)：包含2000年11月至2001年2月的中国杂货店交易数据。  
 
 #### Advertising  
-[Criteo](https://www.kaggle.com/c/criteo-display-ad-challenge/data)：数据集是从 Criteo 收集的，其中包含 Criteo 在几天内的流量的一部分。  
-[Avazu](https://www.kaggle.com/c/avazu-ctr-prediction/data)：数据集用于 Avazu CTR 预测竞赛。  
-[AliEC](https://tianchi.aliyun.com/dataset/56#1)：Ali_Display_Ad_Click是淘宝网站展示广告点击率预测的数据集。该数据集由阿里巴巴公司提供。  
+[**Criteo**](https://www.kaggle.com/c/criteo-display-ad-challenge/data)：数据集是从 Criteo 收集的，其中包含 Criteo 在几天内的流量的一部分。  
+[**Avazu**](https://www.kaggle.com/c/avazu-ctr-prediction/data)：数据集用于 Avazu CTR 预测竞赛。  
+[**AliEC**](https://tianchi.aliyun.com/dataset/56#1)：Ali_Display_Ad_Click是淘宝网站展示广告点击率预测的数据集。该数据集由阿里巴巴公司提供。  
 
 #### Check-in  
-[Foursquare](https://www.kaggle.com/datasets/chetanism/foursquare-nyc-and-tokyo-checkin-dataset)：包含大约 10 个月在纽约和东京收集的签到信息。每次签到都与其时间戳、GPS 坐标及其语义相关联。  
-[Gowalla](https://snap.stanford.edu/data/loc-gowalla.html)：数据集来自一个基于位置的社交网站，用户通过签到来分享他们的位置，并包含这些用户在 2009 年 2 月至 2010 年 10 月期间总共 6,442,890 次签到。  
+[**Foursquare**](https://www.kaggle.com/datasets/chetanism/foursquare-nyc-and-tokyo-checkin-dataset)：包含大约 10 个月在纽约和东京收集的签到信息。每次签到都与其时间戳、GPS 坐标及其语义相关联。  
+[**Gowalla**](https://snap.stanford.edu/data/loc-gowalla.html)：数据集来自一个基于位置的社交网站，用户通过签到来分享他们的位置，并包含这些用户在 2009 年 2 月至 2010 年 10 月期间总共 6,442,890 次签到。  
 
 #### Movies  
-[MovieLens](https://grouplens.org/datasets/movielens/)：MovieLens是一个由美国明尼苏达大学计算机科学与工程学院的GroupLens项目组创办的推荐系统和虚拟社区网站，它提供了多个不同规模和时间跨度的电影评分和标签数据集，供推荐系统算法的研究和开发使用。  
-[Netflix](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)：Netflix-prize-data是一个由Netflix公司提供的电影评分数据集，用于推荐系统算法的研究和开发。这个数据集包含了1999年12月31日至2005年12月31日期间匿名客户提供的超过一亿部电影评级，涉及了480189个用户和17770部电影。  
-[Douban](http://moviedata.csuldw.com/)：豆瓣数据集是一个包含书籍、电影、音乐等信息的数据集，用于各种目的，如数据分析、机器学习和自然语言处理。该数据集可用于多种格式，如 CSV 和 JSON。有许多在线资源可提供对数据集的访问并解释如何使用它。  
-[Twitch](https://github.com/RUCAIBox/RecSysDatasets/tree/master)：这是一个关于用户在Twitch上观看流媒体内容的数据集。我们在43天内每隔10分钟获取了所有的主播和他们各自聊天室中的所有用户。  
+[**MovieLens**](https://grouplens.org/datasets/movielens/)：MovieLens是一个由美国明尼苏达大学计算机科学与工程学院的GroupLens项目组创办的推荐系统和虚拟社区网站，它提供了多个不同规模和时间跨度的电影评分和标签数据集，供推荐系统算法的研究和开发使用。  
+[**Netflix**](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)：Netflix-prize-data是一个由Netflix公司提供的电影评分数据集，用于推荐系统算法的研究和开发。这个数据集包含了1999年12月31日至2005年12月31日期间匿名客户提供的超过一亿部电影评级，涉及了480189个用户和17770部电影。  
+[**Douban**](http://moviedata.csuldw.com/)：豆瓣数据集是一个包含书籍、电影、音乐等信息的数据集，用于各种目的，如数据分析、机器学习和自然语言处理。该数据集可用于多种格式，如 CSV 和 JSON。有许多在线资源可提供对数据集的访问并解释如何使用它。  
+[**Twitch**](https://github.com/RUCAIBox/RecSysDatasets/tree/master)：这是一个关于用户在Twitch上观看流媒体内容的数据集。我们在43天内每隔10分钟获取了所有的主播和他们各自聊天室中的所有用户。  
 &emsp;[Twitch-100k](https://github.com/JRappaz/liverec)：一个用于基准测试的10万用户的子集。  
 &emsp;[Twitch-full](https://drive.google.com/drive/folders/1BD8m7a8m7onaifZay05yYjaLxyVV40si)：完整的数据集  
 
 #### Music
-[Last.FM](https://grouplens.org/datasets/hetrec-2011/)：包含来自 Last.fm 在线音乐系统的一组 2K 用户的社交网络、标签和音乐艺术家收听信息。  
-[LFM-1b](http://www.cp.jku.at/datasets/LFM-1b/)：包含超过 120,000 名 Last.FM 用户创建的超过 10 亿个音乐聆听事件。每个收听事件都以艺术家、专辑和曲目名称为特征，并包含时间戳。  
-[Yahoo Music](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)：数据集代表雅虎的快照！音乐界对各种音乐艺术家的偏好。  
-[KGRec](https://www.upf.edu/web/mtg/kgrec)：利用知识图谱进行music和sound推荐的两个不同数据集，一个用于music推荐（KGRec-music），另一个用于sound推荐（KGRec-sound），其中包含用户、物品、用户与物品之间的隐式反馈交互、物品标签和物品文本描述。  
+[**Last.FM**](https://grouplens.org/datasets/hetrec-2011/)：包含来自 Last.fm 在线音乐系统的一组 2K 用户的社交网络、标签和音乐艺术家收听信息。  
+[**LFM-1b**](http://www.cp.jku.at/datasets/LFM-1b/)：包含超过 120,000 名 Last.FM 用户创建的超过 10 亿个音乐聆听事件。每个收听事件都以艺术家、专辑和曲目名称为特征，并包含时间戳。  
+[**Yahoo Music**](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)：数据集代表雅虎的快照！音乐界对各种音乐艺术家的偏好。  
+[**KGRec**](https://www.upf.edu/web/mtg/kgrec)：利用知识图谱进行music和sound推荐的两个不同数据集，一个用于music推荐（KGRec-music），另一个用于sound推荐（KGRec-sound），其中包含用户、物品、用户与物品之间的隐式反馈交互、物品标签和物品文本描述。  
 &emsp;KGRec-music：所有数据均来自songfacts.com和last.fm网站。物品为music，music的文字描述来自songfacts.com，标签来自last.fm。  
 &emsp;KGRec-sound：所有数据均来自Freesound.org。物品是sound，由sound创建者在上传时创建的文字描述和标签来描述。  
 
 #### Books
-[Book-Crossing](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)：该数据集是从[Book-Crossing](http://www.bookcrossing.com/)社区爬取收集的，并得到了[Humankind Systems](http://www.humankindsystems.com/)首席技术官 Ron Hornbaker 的许可。它包含 278,858 个用户（匿名但包含人口统计信息），提供了关于 271,379 本书的 1,149,780 个评级（显式/隐式）。  
-[GoodReads](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home/)：数据集包含来自[Goodreads](https://www.goodreads.com/)书评网站的评论以及描述项目的各种属性。至关重要的是，数据集具有多个级别的用户交互，包括添加到书架、评分和阅读。  
+[**Book-Crossing**](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)：该数据集是从[Book-Crossing](http://www.bookcrossing.com/)社区爬取收集的，并得到了[Humankind Systems](http://www.humankindsystems.com/)首席技术官 Ron Hornbaker 的许可。它包含 278,858 个用户（匿名但包含人口统计信息），提供了关于 271,379 本书的 1,149,780 个评级（显式/隐式）。  
+[**GoodReads**](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home/)：数据集包含来自[Goodreads](https://www.goodreads.com/)书评网站的评论以及描述项目的各种属性。至关重要的是，数据集具有多个级别的用户交互，包括添加到书架、评分和阅读。  
 
 #### Games
-[Steam](https://github.com/kang205/SASRec)：数据集是来自Steam的评论和游戏信息，其中包含7,793,069条评论、2,567,538个用户和32,135个游戏。除了评论文本之外，数据还包括用户在每条评论中的游戏时长。  
+[**Steam**](https://github.com/kang205/SASRec)：数据集是来自Steam的评论和游戏信息，其中包含7,793,069条评论、2,567,538个用户和32,135个游戏。除了评论文本之外，数据还包括用户在每条评论中的游戏时长。  
 
 #### Alime
-[Anime](https://www.kaggle.com/CooperUnion/anime-recommendations-database)：包含有关来自[动漫和漫画数据库和社区](https://myanimelist.net/)的用户偏好数据的信息。每个用户都可以将动漫添加到他们已完成的列表中并对其进行评分，该数据集是这些评分的汇编。  
+[**Anime**](https://www.kaggle.com/CooperUnion/anime-recommendations-database)：包含有关来自[动漫和漫画数据库和社区](https://myanimelist.net/)的用户偏好数据的信息。每个用户都可以将动漫添加到他们已完成的列表中并对其进行评分，该数据集是这些评分的汇编。  
 
 #### Pictures
-[Pinterest](https://github.com/hexiangnan/neural_collaborative_filtering/tree/master/Data)：Pinterest推荐数据集是一个由Pinterest公司提供的图像评分和标签数据集，用于推荐系统算法的研究和开发。这个数据集包含了2000万个评分和1000万个标签，涉及了1.1亿张图像和300万个用户。  
+[**Pinterest**](https://github.com/hexiangnan/neural_collaborative_filtering/tree/master/Data)：Pinterest推荐数据集是一个由Pinterest公司提供的图像评分和标签数据集，用于推荐系统算法的研究和开发。这个数据集包含了2000万个评分和1000万个标签，涉及了1.1亿张图像和300万个用户。  
 
 #### Jokes
-[Jester](http://eigentaste.berkeley.edu/dataset/)：Jester是一个笑话评分数据集，包含了来自互联网匿名用户的笑话评分。  
+[**Jester**](http://eigentaste.berkeley.edu/dataset/)：Jester是一个笑话评分数据集，包含了来自互联网匿名用户的笑话评分。  
 
 #### Exercises
-[KDD2010](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp)：数据集是在KDD Cup 2010教育数据挖掘挑战赛中发布的，其中包含了学生在系统上提交练习的情况。  
-[EndoMondo](https://cseweb.ucsd.edu/~jmcauley/datasets.html#endomondo)：这是[EndoMondo](https://www.endomondo.com/)用户的锻炼日志的集合。数据包括多个来源的连续传感器数据，例如心率日志、速度、GPS 以及运动类型、性别和天气状况。  
+[**KDD2010**](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp)：数据集是在KDD Cup 2010教育数据挖掘挑战赛中发布的，其中包含了学生在系统上提交练习的情况。  
+[**EndoMondo**](https://cseweb.ucsd.edu/~jmcauley/datasets.html#endomondo)：这是[EndoMondo](https://www.endomondo.com/)用户的锻炼日志的集合。数据包括多个来源的连续传感器数据，例如心率日志、速度、GPS 以及运动类型、性别和天气状况。  
 
 #### Websites
-[Phishing Websites](http://archive.ics.uci.edu/ml/datasets/Phishing+Websites)：包含11,055个网站的30种特征以及是否为钓鱼网站的标签。网站的特征包括12个基于地址栏的特征、6个基于异常的特征、5个基于HTML和JavaScript的特征以及7个基于域的特征。  
-[Behance](https://cseweb.ucsd.edu/~jmcauley/datasets.html#behance)：这是来自社区艺术网站[Behance](https://www.behance.net/)的有关点赞和图像数据的较大专有数据集的小型匿名版本。  
+[**Phishing Websites**](http://archive.ics.uci.edu/ml/datasets/Phishing+Websites)：包含11,055个网站的30种特征以及是否为钓鱼网站的标签。网站的特征包括12个基于地址栏的特征、6个基于异常的特征、5个基于HTML和JavaScript的特征以及7个基于域的特征。  
+[**Behance**](https://cseweb.ucsd.edu/~jmcauley/datasets.html#behance)：这是来自社区艺术网站[Behance](https://www.behance.net/)的有关点赞和图像数据的较大专有数据集的小型匿名版本。  
 
 #### Adult
-[Adult](http://archive.ics.uci.edu/ml/datasets/Adult)：由 Barry Becker 从 1994 年人口普查数据库中提取，该数据库包含人们的属性列表以及他们的年收入是否超过 5 万。  
+[**Adult**](http://archive.ics.uci.edu/ml/datasets/Adult)：由 Barry Becker 从 1994 年人口普查数据库中提取，该数据库包含人们的属性列表以及他们的年收入是否超过 5 万。  
 
 #### News
-[MIND](https://msnews.github.io/)：数据集是用于新闻推荐研究的大型数据集。它是从[微软新闻网站](https://news.microsoft.com/)的匿名行为日志中收集的。MIND 包含约 16 万篇英文新闻文章和 100 万用户生成的超过 1500 万条印象日志。  
+[**MIND**](https://msnews.github.io/)：数据集是用于新闻推荐研究的大型数据集。它是从[微软新闻网站](https://news.microsoft.com/)的匿名行为日志中收集的。MIND 包含约 16 万篇英文新闻文章和 100 万用户生成的超过 1500 万条印象日志。  
 
 #### Food
-[Food](https://cseweb.ucsd.edu/~jmcauley/datasets.html#foodcom)：包含来自[Food.com](https://cseweb.ucsd.edu/~jmcauley/www.food.com)（以前称为 GeniusKitchen）的食谱详细信息和评论。数据包括烹饪食谱和评论文本。  
-[dianping](http://yongfeng.me/dataset/)：该数据集包含从中国著名在线点评网站[大众点评网](http://www.dianping.com/)抓取的用户点评以及详细的企业元数据信息，其中包括 510,071 名用户对 209,132 家企业的 3,605,300 条点评。  
+[**Food**](https://cseweb.ucsd.edu/~jmcauley/datasets.html#foodcom)：包含来自[Food.com](https://cseweb.ucsd.edu/~jmcauley/www.food.com)（以前称为 GeniusKitchen）的食谱详细信息和评论。数据包括烹饪食谱和评论文本。  
+[**dianping**](http://yongfeng.me/dataset/)：该数据集包含从中国著名在线点评网站[大众点评网](http://www.dianping.com/)抓取的用户点评以及详细的企业元数据信息，其中包括 510,071 名用户对 209,132 家企业的 3,605,300 条点评。  
 
 #### Beverages
-[BeerAdvocate](https://cseweb.ucsd.edu/~jmcauley/datasets.html#multi_aspect)：包括具有多个评级维度的啤酒评论，涵盖味道、外观、感觉和气味等感官方面。  
-[RateBeer](https://cseweb.ucsd.edu/~jmcauley/datasets.html#multi_aspect)：包含具有多个评级维度的啤酒评论，包括具有感官方面的物品属性，例如味道、外观、感觉和气味。  
+[**BeerAdvocate**](https://cseweb.ucsd.edu/~jmcauley/datasets.html#multi_aspect)：包括具有多个评级维度的啤酒评论，涵盖味道、外观、感觉和气味等感官方面。  
+[**RateBeer**](https://cseweb.ucsd.edu/~jmcauley/datasets.html#multi_aspect)：包含具有多个评级维度的啤酒评论，包括具有感官方面的物品属性，例如味道、外观、感觉和气味。  
 
 #### Clothes
-[ModCloth](https://cseweb.ucsd.edu/~jmcauley/datasets.html#clothing_fit)：包含 ModCloth 的服装合身测量值。  
-[RentTheRunway](https://cseweb.ucsd.edu/~jmcauley/datasets.html#clothing_fit)：包含来自[RentTheRunway](https://www.renttherunway.com/)的服装合身测量值。  
+[**ModCloth**](https://cseweb.ucsd.edu/~jmcauley/datasets.html#clothing_fit)：包含 ModCloth 的服装合身测量值。  
+[**RentTheRunway**](https://cseweb.ucsd.edu/~jmcauley/datasets.html#clothing_fit)：包含来自[RentTheRunway](https://www.renttherunway.com/)的服装合身测量值。  
 
 #### Others
-[Tenrec](https://static.qblv.qq.com/qblv/h5/algo-frontend/tenrec_dataset.html)：一个大规模的多用途推荐系统数据集。由于Tenrec数据集的数据规模大、多场景以及特征丰富等特性，因此它可以被用于各种热门的推荐系统场景，例如CTR、基于序列推荐、迁移学习、冷启动、终身学习、模型加速等。总结的来说，Tenrec有以下五个特点：1. 它是一个大规模数据集，有超过五5百万的用户和1.4亿的交互；2. 不仅有正向的用户反馈，还有真实的负反馈；3. 在四个不同场景的数据集中，存在部分用户交叠和物品交叠；4. 它包含多种用户反馈，点击、喜欢、分享和关注等；5. 它还包含额外的用户和物品特征。Tenrec 包含1.42 亿的点击行为，1 千万的喜欢行为，1 百万的分享行为和 86 万的关注行为以及总共 3.75 百万的视频数量。除了用户行为以外，还包括经过脱敏处理后的用户年龄、用户性别和物品类别等特征。  
-[KuaiRec](https://kuairec.com/)：一个几乎全是观测值的稠密数据集，真实世界的数据集，收集自视频分享手机应用快手的推荐日志。目前，它是第一个包含完全观察（用户-物品矩阵中几乎没有缺失值，即每个用户都看过每个视频，然后留下反馈）的用户-物品交互矩阵的数据集。KuaiRec数据集包含了1411个用户对3327个短视频的交互行为，稠密度高达99.6%（一般推荐系统公开数据集的稠密度在1%以下）。  
+[**Tenrec**](https://static.qblv.qq.com/qblv/h5/algo-frontend/tenrec_dataset.html)：一个大规模的多用途推荐系统数据集。由于Tenrec数据集的数据规模大、多场景以及特征丰富等特性，因此它可以被用于各种热门的推荐系统场景，例如CTR、基于序列推荐、迁移学习、冷启动、终身学习、模型加速等。总结的来说，Tenrec有以下五个特点：1. 它是一个大规模数据集，有超过五5百万的用户和1.4亿的交互；2. 不仅有正向的用户反馈，还有真实的负反馈；3. 在四个不同场景的数据集中，存在部分用户交叠和物品交叠；4. 它包含多种用户反馈，点击、喜欢、分享和关注等；5. 它还包含额外的用户和物品特征。Tenrec 包含1.42 亿的点击行为，1 千万的喜欢行为，1 百万的分享行为和 86 万的关注行为以及总共 3.75 百万的视频数量。除了用户行为以外，还包括经过脱敏处理后的用户年龄、用户性别和物品类别等特征。  
+[**KuaiRec**](https://kuairec.com/)：一个几乎全是观测值的稠密数据集，真实世界的数据集，收集自视频分享手机应用快手的推荐日志。目前，它是第一个包含完全观察（用户-物品矩阵中几乎没有缺失值，即每个用户都看过每个视频，然后留下反馈）的用户-物品交互矩阵的数据集。KuaiRec数据集包含了1411个用户对3327个短视频的交互行为，稠密度高达99.6%（一般推荐系统公开数据集的稠密度在1%以下）。  
 
