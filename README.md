@@ -28,8 +28,8 @@
 作者李沐，通过代码实践去学习深度学习原理，教给读者概念、背景知识和代码；我们将在同一个地方阐述剖析问题所需的批判性思维、解决问题所需的数学知识，以及实现解决方案所需的工程技能。  
 [《神经网络与深度学习》](https://github.com/nndl/nndl.github.io)  
 邱锡鹏，较全面地介绍了神经网络、机器学习和深度学习的基本概念、模型和方法，同时也涉及深度学习中许多最新进展．书后还提供了相关数学分支的简要介绍，以供读者需要时参考。  
-[《Neural Networks and Deep Learning》](https://github.com/Xovee/simplified-chinese-translation-of-neural-networks-and-deep-learning/tree/master)  
-Michael Nielsen，译者Xovee。是一本免费的在线书籍，它将教你神经网络和深度学习的核心概念。原书被译者Xovee翻译成[中译版](https://blog.csdn.net/xovee/article/details/81384670)。  
+[《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)  
+原作者[Michael Nielsen](http://michaelnielsen.org/)，译者[Xovee](https://www.xoveexu.com/)。这是一本免费的在线书籍，它将教你神经网络和深度学习的核心概念。原书被译者Xovee翻译成[中译版](https://github.com/Xovee/simplified-chinese-translation-of-neural-networks-and-deep-learning/tree/master)，也可在[CSDN阅读](https://blog.csdn.net/xovee/article/details/81384670)。  
 
 ### 课程
 吴恩达深度学习：https://www.coursera.org/deeplearning-ai  
