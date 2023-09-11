@@ -90,7 +90,7 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 ### 数据集
 #### Shopping
 [Amazon](http://jmcauley.ucsd.edu/data/amazon/)：Amazon数据集是一个由Amazon公司提供的商品评价和元数据的数据集，用于推荐系统和自然语言处理的研究和开发。这个数据集包含了从1996年到2018年期间的用户对亚马逊网站上不同类别商品的评分、标签和评论等信息，涉及了数百万个用户和数千万个商品。  
-&eamp;[2013版](http://snap.stanford.edu/data/web-Amazon-links.html)，[2014版](http://jmcauley.ucsd.edu/data/amazon/index_2014.html)，[2018版](https://nijianmo.github.io/amazon/index.html)  
+&esmp;[2013版](http://snap.stanford.edu/data/web-Amazon-links.html)，[2014版](http://jmcauley.ucsd.edu/data/amazon/index_2014.html)，[2018版](https://nijianmo.github.io/amazon/index.html)  
 [Taobao](https://tianchi.aliyun.com/datalab/dataSet.htm?spm=5176.100073.888.13.62f83f62aOlMEI&id=1)：该数据集包含了匿名用户在“双十一”前后6个月的购物记录，以及表明他们是否重复购买的标签信息。由于隐私问题，数据采集存在偏差，因此该数据集的统计结果会与天猫的实际情况相背离。  
 [Yelp](https://www.yelp.com/dataset)：这个数据集是从Yelp收集的。Yelp数据集是商家、评论和用户数据的一个子集，可用于个人、教育和学术目的。从2018年Yelp挑战赛开始，总共有四个版本的Yelp数据集。  
 [2018版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/versions/1)，[2020版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=2)，[2021版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=3)，[2022版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=4)  
@@ -114,16 +114,16 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 [Netflix](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)：Netflix-prize-data是一个由Netflix公司提供的电影评分数据集，用于推荐系统算法的研究和开发。这个数据集包含了1999年12月31日至2005年12月31日期间匿名客户提供的超过一亿部电影评级，涉及了480189个用户和17770部电影。  
 [Douban](http://moviedata.csuldw.com/)：豆瓣数据集是一个包含书籍、电影、音乐等信息的数据集，用于各种目的，如数据分析、机器学习和自然语言处理。该数据集可用于多种格式，如 CSV 和 JSON。有许多在线资源可提供对数据集的访问并解释如何使用它。  
 [Twitch](https://github.com/RUCAIBox/RecSysDatasets/tree/master)：这是一个关于用户在Twitch上观看流媒体内容的数据集。我们在43天内每隔10分钟获取了所有的主播和他们各自聊天室中的所有用户。  
-&eamp;[Twitch-100k](https://github.com/JRappaz/liverec)：一个用于基准测试的10万用户的子集。  
-&eamp;[Twitch-full](https://drive.google.com/drive/folders/1BD8m7a8m7onaifZay05yYjaLxyVV40si)：完整的数据集  
+&esmp;[Twitch-100k](https://github.com/JRappaz/liverec)：一个用于基准测试的10万用户的子集。  
+&esmp;[Twitch-full](https://drive.google.com/drive/folders/1BD8m7a8m7onaifZay05yYjaLxyVV40si)：完整的数据集  
 
 #### Music
 [Last.FM](https://grouplens.org/datasets/hetrec-2011/)：包含来自 Last.fm 在线音乐系统的一组 2K 用户的社交网络、标签和音乐艺术家收听信息。  
 [LFM-1b](http://www.cp.jku.at/datasets/LFM-1b/)：包含超过 120,000 名 Last.FM 用户创建的超过 10 亿个音乐聆听事件。每个收听事件都以艺术家、专辑和曲目名称为特征，并包含时间戳。  
 [Yahoo Music](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)：数据集代表雅虎的快照！音乐界对各种音乐艺术家的偏好。  
 [KGRec](https://www.upf.edu/web/mtg/kgrec)：利用知识图谱进行music和sound推荐的两个不同数据集，一个用于music推荐（KGRec-music），另一个用于sound推荐（KGRec-sound），其中包含用户、物品、用户与物品之间的隐式反馈交互、物品标签和物品文本描述。  
-  KGRec-music：所有数据均来自songfacts.com和last.fm网站。物品为music，music的文字描述来自songfacts.com，标签来自last.fm。  
-  KGRec-sound：所有数据均来自Freesound.org。物品是sound，由sound创建者在上传时创建的文字描述和标签来描述。  
+&esmp;KGRec-music：所有数据均来自songfacts.com和last.fm网站。物品为music，music的文字描述来自songfacts.com，标签来自last.fm。  
+&esmp;KGRec-sound：所有数据均来自Freesound.org。物品是sound，由sound创建者在上传时创建的文字描述和标签来描述。  
 
 #### Books
 [Book-Crossing](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)：该数据集是从[Book-Crossing](http://www.bookcrossing.com/)社区爬取收集的，并得到了[Humankind Systems](http://www.humankindsystems.com/)首席技术官 Ron Hornbaker 的许可。它包含 278,858 个用户（匿名但包含人口统计信息），提供了关于 271,379 本书的 1,149,780 个评级（显式/隐式）。  
