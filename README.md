@@ -96,7 +96,7 @@ https://www.ccf.org.cn/ccftjgjxskwml/
 #### Shopping
 [Amazon](http://jmcauley.ucsd.edu/data/amazon/)：Amazon数据集是一个由Amazon公司提供的商品评价和元数据的数据集，用于推荐系统和自然语言处理的研究和开发。这个数据集包含了从1996年到2018年期间的用户对亚马逊网站上不同类别商品的评分、标签和评论等信息，涉及了数百万个用户和数千万个商品。  
 [2013版](http://snap.stanford.edu/data/web-Amazon-links.html)，[2014版](http://jmcauley.ucsd.edu/data/amazon/index_2014.html)，[2018版](https://nijianmo.github.io/amazon/index.html)  
- 
+[Taobao](https://tianchi.aliyun.com/datalab/dataSet.htm?spm=5176.100073.888.13.62f83f62aOlMEI&id=1)：该数据集包含了匿名用户在“双十一”前后6个月的购物记录，以及表明他们是否重复购买的标签信息。由于隐私问题，数据采集存在偏差，因此该数据集的统计结果会与天猫的实际情况相背离。  
 [Yelp](https://www.yelp.com/dataset)：这个数据集是从Yelp收集的。Yelp数据集是商家、评论和用户数据的一个子集，可用于个人、教育和学术目的。从2018年Yelp挑战赛开始，总共有四个版本的Yelp数据集。  
 [2018版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/versions/1)，[2020版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=2)，[2021版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=3)，[2022版](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/download?datasetVersionNumber=4)  
 [Epinions](https://snap.stanford.edu/data/soc-Epinions1.html)：这个数据集是从Epinions.com收集的，Epinions.com是一个流行的在线消费者评论网站。它包含了用户之间的信任关系，并跨越了十多年的时间，从2001年1月到2013年11月。  
@@ -166,14 +166,13 @@ https://www.ccf.org.cn/ccftjgjxskwml/
 
 #### Beverages
 [BeerAdvocate](https://cseweb.ucsd.edu/~jmcauley/datasets.html#multi_aspect)：包括具有多个评级维度的啤酒评论，涵盖味道、外观、感觉和气味等感官方面。  
-[RateBeer](https://cseweb.ucsd.edu/~jmcauley/datasets.html#multi_aspect)：包含具有多个评级维度的啤酒评论，包括具有感官方面的项目属性，例如味道、外观、感觉和气味。  
+[RateBeer](https://cseweb.ucsd.edu/~jmcauley/datasets.html#multi_aspect)：包含具有多个评级维度的啤酒评论，包括具有感官方面的物品属性，例如味道、外观、感觉和气味。  
 
 #### Clothes
 [ModCloth](https://cseweb.ucsd.edu/~jmcauley/datasets.html#clothing_fit)：包含 ModCloth 的服装合身测量值。  
 [RentTheRunway](https://cseweb.ucsd.edu/~jmcauley/datasets.html#clothing_fit)：包含来自[RentTheRunway](https://www.renttherunway.com/)的服装合身测量值。  
 
 #### Others
-[Taobao](https://tianchi.aliyun.com/datalab/dataSet.htm?spm=5176.100073.888.13.62f83f62aOlMEI&id=1)：该数据集包含了匿名用户在“双十一”前后6个月的购物记录，以及表明他们是否重复购买的标签信息。由于隐私问题，数据采集存在偏差，因此该数据集的统计结果会与天猫的实际情况相背离。  
 [Tenrec](https://static.qblv.qq.com/qblv/h5/algo-frontend/tenrec_dataset.html)：一个大规模的多用途推荐系统数据集。由于Tenrec数据集的数据规模大、多场景以及特征丰富等特性，因此它可以被用于各种热门的推荐系统场景，例如CTR、基于序列推荐、迁移学习、冷启动、终身学习、模型加速等。总结的来说，Tenrec有以下五个特点：1. 它是一个大规模数据集，有超过五5百万的用户和1.4亿的交互；2. 不仅有正向的用户反馈，还有真实的负反馈；3. 在四个不同场景的数据集中，存在部分用户交叠和物品交叠；4. 它包含多种用户反馈，点击、喜欢、分享和关注等；5. 它还包含额外的用户和物品特征。Tenrec 包含1.42 亿的点击行为，1 千万的喜欢行为，1 百万的分享行为和 86 万的关注行为以及总共 3.75 百万的视频数量。除了用户行为以外，还包括经过脱敏处理后的用户年龄、用户性别和物品类别等特征。  
-[KuaiRec](https://kuairec.com/)：一个几乎全是观测值的稠密数据集，真实世界的数据集，收集自视频分享手机应用快手的推荐日志。目前，它是第一个包含完全观察到的用户-项目交互矩阵的数据集。对于“完全观察”这个术语，我们的意思是用户-物品矩阵中几乎没有缺失值，即每个用户都看过每个视频，然后留下反馈。KuaiRec数据集包含了1411个用户对3327个短视频的交互行为，稠密度高达99.6%（一般推荐系统公开数据集的稠密度在1%以下）。  
+[KuaiRec](https://kuairec.com/)：一个几乎全是观测值的稠密数据集，真实世界的数据集，收集自视频分享手机应用快手的推荐日志。目前，它是第一个包含完全观察（用户-物品矩阵中几乎没有缺失值，即每个用户都看过每个视频，然后留下反馈）的用户-物品交互矩阵的数据集。KuaiRec数据集包含了1411个用户对3327个短视频的交互行为，稠密度高达99.6%（一般推荐系统公开数据集的稠密度在1%以下）。  
 
