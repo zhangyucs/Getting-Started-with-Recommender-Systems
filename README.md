@@ -13,10 +13,10 @@
 作者雷明，彻底解决机器学习的数学问题。  
 
 ### 课程
-吴恩达机器学习：https://www.bilibili.com/video/BV164411b7dx/  
-吴恩达机器学习（2022）：https://www.bilibili.com/video/BV1Pa411X76s/  
-林轩田机器学习基石：https://www.bilibili.com/video/BV1Cx411i7op/  
-林轩田机器学习技法：https://www.bilibili.com/video/BV1ix411i7yp/  
+吴恩达机器学习：https://www.coursera.org/learn/machine-learning  
+吴恩达机器学习（2022）：https://www.coursera.org/specializations/machine-learning-introduction  
+林轩田机器学习基石：https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf  
+林轩田机器学习技法：https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2  
 机器学习白板推导：https://www.bilibili.com/video/BV1aE411o7qd/  
 
 ## 二、	深度学习
