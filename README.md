@@ -1,8 +1,21 @@
 # Getting Started with Recommender Systems
+## 目录
+[一、机器学习](#机器学习)  
+&emsp;[机器学习书籍](#机器学习书籍)  
+&emsp;[机器学习课程](#机器学习课程)  
+[二、深度学习](#深度学习)  
+&emsp;[深度学习书籍](#深度学习书籍)  
+&emsp;[深度学习课程](#深度学习课程)  
+[三、推荐系统入门](#推荐系统入门)  
+[四、推荐系统进阶](#推荐系统进阶)  
+&emsp;[会议](#会议)  
+&emsp;[期刊](#期刊)  
+&emsp;[数据集](#数据集)  
+&emsp;[论文](#论文)  
 
-## 一、	机器学习
+## <span id="机器学习">一、机器学习
 
-### 书籍 
+### 机器学习书籍 
 [《机器学习方法》](https://book.douban.com/subject/35884788/)  
 作者李航，基于《统计学习方法》新增“深度学习”篇，内容全面系统、深入浅出，适合多次、反复阅读的机器学习经典著作，人工智能与大数据时代的必备参考书。  
 [《机器学习》](https://book.douban.com/subject/26708119/)  
@@ -12,16 +25,16 @@
 [《机器学习的数学》](https://book.douban.com/subject/35317174/)  
 作者雷明，彻底解决机器学习的数学问题。  
 
-### 课程
+### 机器学习课程
 吴恩达机器学习：https://www.coursera.org/learn/machine-learning  
 吴恩达机器学习（2022）：https://www.coursera.org/specializations/machine-learning-introduction  
 林轩田机器学习基石：https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf  
 林轩田机器学习技法：https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2  
 机器学习白板推导：[B站](https://www.bilibili.com/video/BV1aE411o7qd/)，[YouTube](https://www.youtube.com/watch?v=f474MY-5sw8&list=PLOxMGJ_8X74aGAJ2I_buAi6yV3XuTY61g)  
 
-## 二、	深度学习
+## <span id="深度学习">二、深度学习
 
-### 书籍
+### 深度学习书籍
 [《深度学习》](https://github.com/MingchaoZhu/DeepLearning)  
 花书，因书的封面为花园而得名，被业界称为深度学习的圣经，它用500页篇幅详细讲解了深度学习的数学、算法、各式各样的神经网络及其前沿进展。有最简单的机器学习的数学基础（线性代数、概率论），二分类的逻辑回归，处理图像数据的卷积神经网络，处理序列数据的循环神经网络，长短时记忆神经网络，生成数据的生成对抗网络。  
 [《动手学深度学习》](https://zh.d2l.ai/)  
@@ -31,13 +44,13 @@
 [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)  
 原作者[Michael Nielsen](http://michaelnielsen.org/)，译者[Xovee](https://www.xoveexu.com/)。这是一本免费的在线书籍，它将教你神经网络和深度学习的核心概念。原书被译者Xovee翻译成[中译版](https://github.com/Xovee/simplified-chinese-translation-of-neural-networks-and-deep-learning/tree/master)，也可在[CSDN阅读](https://blog.csdn.net/xovee/article/details/81384670)。  
 
-### 课程
+### 深度学习课程
 吴恩达深度学习：https://www.coursera.org/deeplearning-ai  
 李沐动手学深度学习 PyTorch版：https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497  
 李宏毅机器学习：https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php  
 邱锡鹏神经网络与深度学习：https://space.bilibili.com/434832966/  
 
-## 三、	推荐系统入门
+## <span id="推荐系统入门">三、推荐系统入门
 [《Recommender System Handbook》](https://book.douban.com/subject/26806263/)/[《推荐系统：技术、评估及高效算法》](https://book.douban.com/subject/26437066/)  
 这本书融合不同领域专家学者的理论成果和实践经验，从推荐系统相关技术、推荐系统的应用与评估、推荐系统的交互、推荐系统和社区及高级算法5个方面介绍推荐系统的主要概念、理论、方法、趋势、挑战和应用，详细阐释如何支持用户决策、计划和购买过程，帮助你梳理推荐系统的相关知识体系，并理解推荐系统的原理、算法及实现。  
 [《深度学习推荐系统》](https://book.douban.com/subject/35013197/)  
@@ -47,7 +60,7 @@
 [《推荐系统：前沿与实践》](https://book.douban.com/subject/35947222/)  
 这本书作者以一线研发人员的视角和经验，对推荐系统进行总结，尝试从原理与实践两个角度为读者剖析推荐系统。本书首先从原理上介绍各类经典推荐算法及前沿的深度学习推荐算法，然后分析推荐系统领域发展的前沿话题和未来方向，后结合微软的开源项目Microsoft Recommenders 介绍推荐系统的实践经验。  
 
-## 四、	推荐系统进阶
+## <span id="推荐系统进阶">四、推荐系统进阶
 
 ### 会议
 
@@ -170,4 +183,165 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 #### Others
 [**Tenrec**](https://static.qblv.qq.com/qblv/h5/algo-frontend/tenrec_dataset.html)：一个大规模的多用途推荐系统数据集。由于Tenrec数据集的数据规模大、多场景以及特征丰富等特性，因此它可以被用于各种热门的推荐系统场景，例如CTR、基于序列推荐、迁移学习、冷启动、终身学习、模型加速等。总结的来说，Tenrec有以下五个特点：1. 它是一个大规模数据集，有超过五5百万的用户和1.4亿的交互；2. 不仅有正向的用户反馈，还有真实的负反馈；3. 在四个不同场景的数据集中，存在部分用户交叠和物品交叠；4. 它包含多种用户反馈，点击、喜欢、分享和关注等；5. 它还包含额外的用户和物品特征。Tenrec 包含1.42 亿的点击行为，1 千万的喜欢行为，1 百万的分享行为和 86 万的关注行为以及总共 3.75 百万的视频数量。除了用户行为以外，还包括经过脱敏处理后的用户年龄、用户性别和物品类别等特征。  
 [**KuaiRec**](https://kuairec.com/)：一个几乎全是观测值的稠密数据集，真实世界的数据集，收集自视频分享手机应用快手的推荐日志。目前，它是第一个包含完全观察（用户-物品矩阵中几乎没有缺失值，即每个用户都看过每个视频，然后留下反馈）的用户-物品交互矩阵的数据集。KuaiRec数据集包含了1411个用户对3327个短视频的交互行为，稠密度高达99.6%（一般推荐系统公开数据集的稠密度在1%以下）。  
+
+### 论文
+#### 多模态推荐
+##### 技术1
+##### 技术2
+##### 技术3
+
+#### Privacy-Preserving Rec
+##### Differential Privacy
+Privacy Enhanced Matrix Factorization for Recommendation with Local Differential Privacy  
+Hyejin Shin, Sungwook Kim, Junbum Shin, Xiaokui Xiao  
+IEEE Transactions on Knowledge and Data Engineering (TKDE'18)  
+
+Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models  
+Aldo Gael Carranza, Rezsa Farahani, Natalia Ponomareva, Alex Kurakin, Matthew Jagielski, Milad Nasr  
+arXiv preprint arXiv:2305.05973 (2023)  
+
+##### Federated Rec
+Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System  
+Muhammad Ammad-ud-din, Elena Ivannikova, Suleiman A. Khan, Were Oyomno, Qiang Fu, Kuan Eeik Tan, Adrian Flanagan  
+arXiv preprint arXiv:1901.09888 (2019)  
+
+Stronger Privacy for Federated Collaborative Filtering With Implicit Feedback  
+Lorenzo Minto，Moritz Haller，Benjamin Livshits，Hamed Haddadi  
+ACM Conference on Recommender Systems (2021)  
+
+A Privacy Preserving System for Movie Recommendations using Federated Learning  
+DAVID NEUMANN, ANDREAS LUTZ, KARSTEN MÜLLER, WOJCIECH SAMEK  
+arXiv preprint arXiv:2303.04689 (2023)  
+
+
+#### Multi-behavior Rec
+##### GCN
+Multi-behavior Recommendation with Graph Convolutional Networks    
+Bowen Jin, Chen Gao, Xiangnan He, Depeng Jin, and Yong Li    
+ACM Conference on Research and Development in Information Retrieval (SIGIR'20)  
+
+Graph meta network for multi-behavior recommendation  
+Lianghao Xia, Yong Xu, Chao Huang, Peng Dai, and Liefeng Bo  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'21) 
+
+Multi-behavior enhanced recommendation with cross-interaction collaborative relation modeling  
+Xia, Lianghao and Huang, Chao and Xu, Yong and Dai, Peng and Lu, Mengyin and Bo, Liefeng  
+IEEE 37th International Conference on Data Engineering (ICDE'21)  
+
+Cascading Residual Graph Convolutional Network for Multi-Behavior Recommendation  
+Mingshi Yan^, Zhiyong Cheng*, Chen Gao, Jing Sun, Fan Liu, Fuming Sun, Haojie Li  
+ACM Transactions on Information Systems (TOIS'23)  
+
+Multi-behavior Recommendation with Cascading Graph Convolution Networks  
+Zhiyong Cheng, Sai Han, Fan Liu, Lei Zhu, Zan Gao, Yuxin Peng  
+The Web Conference 2023 (WWW'23)  
+
+##### Contrastive-Learning
+Self-supervised graph neural networks for multi-behavior recommendation    
+Shuyun Gu, Xiao Wang, Chuan Shi, and Ding Xiao   
+In International Joint Conference on Artificial Intelligence (IJCAI'22)  
+
+Contrastive meta learning with behavior multiplicity for recommendation  
+Wei Wei, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, and Dawei Yin  
+ACM international conference on web search and data mining (WSDM'22)   
+
+Multi-behavior self-supervised learning for recommendation  
+Jingcao Xu, Chaokun Wang, Cheng Wu, Yang Song, Kai Zheng, Xiaowei Wang, Changping Wang, Guorui Zhou, and
+Kun Gai  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'23)  
+
+##### Deep-Learning
+Learning to recommend with multiple cascading behaviors  
+Gao, Chen and He, Xiangnan and Gan, Dahua and Chen, Xiangning and Feng, Fuli and Li, Yong and Chua, Tat-Seng and Yao, Lina and Song, Yang and Jin, Depeng  
+IEEE transactions on knowledge and data engineering (TKDE'19)   
+
+
+#### Contrastive-based Rec
+##### Multi-View
+Self-supervised Graph Learning for Recommendation  
+Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, and Xing Xie  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'21)  
+
+Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation  
+Junliang Yu, Hongzhi Yin, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'22)  
+
+Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering  
+Changxin Tian, Yuexiang Xie, Yaliang Li, Nan Yang, Wayne Xin Zhao  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'22)  
+
+LIGHTGCL: SIMPLE YET EFFECTIVE GRAPH CONTRASTIVE LEARNING FOR RECOMMENDATION  
+Xuheng Cai, Chao Huang, Lianghao Xia, Xubin Ren  
+International Conference on Learning Representations (ICLR'23)  
+
+Generative-Contrastive Graph Learning for Recommendation  
+Yonghui Yang, Zhengwei Wu, Le Wu, Kun Zhang, Richang Hong, Zhiqiang Zhang, Jun Zhou, Meng Wang  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'23)  
+
+Adaptive Graph Contrastive Learning for Recommendation  
+Yangqin Jiang, Chao Huan, Lianghao Xia  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23)  
+
+##### Single-View
+Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning  
+Zihan Lin, Changxin Tian, Yupeng Hou, Wayne Xin Zhao  
+International World Wide Web Conference (WWW'22) 
+
+XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation  
+Junliang Yu, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung, Hongzhi Yin  
+IEEE Transactions on Knowledge and Data Engineering (TKDE'22)  
+
+#### Cross-Domain Rec
+##### GCN
+Cross-Domain Recommendation via Preference Propagation GraphNet  
+Zhao, Cheng and Li, Chenliang and Fu, Cong  
+ACM International Conference on Information and Knowledge Management (CIKM'19)  
+
+Cross Domain Recommendation via Bi-directional Transfer Graph Collaborative Filtering Networks  
+Liu, Meng and Li, Jianjun and Li, Guohui and Pan, Peng  
+ACM International Conference on Information and Knowledge Management (CIKM'20)  
+
+##### Meta-Learning
+Transfer-Meta Framework for Cross-domain Recommendation Cold-Start Users  
+Zhu, Yongchun and Ge, Kaikai and Zhuang, Fuzhen and Xie, Ruobing and Xi, Dongbo and Zhang, Xu and Lin, Leyu and He, Qing  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'21)  
+
+Personalized Transfer of User Preferences for Cross-domain Recommendation  
+Zhu, Yongchun and Tang, Zhenwei and Liu, Yudan and Zhuang, Fuzhen and Xie, Ruobing and Zhang, Xu and Lin, Leyu and He, Qing  
+ACM International Conference on Web Search and Data Mining (WSDM'22)  
+
+##### Deep-Learning
+Cross-Domain Recommendation An Embedding and Mapping Approach  
+Man, Tong and Shen, Huawei and Jin, Xiaolong and Cheng, Xueqi  
+International Joint Conference on Artificial Intelligence (IJCAI'17)  
+
+CoNet Collaborative Cross Networks for Cross-Domain Recommendation  
+Hu, Guangneng and Zhang, Yu and Yang, Qiang  
+ACM International Conference on Information and Knowledge Management (CIKM'18)  
+
+User-specific Adaptive Fine-tuning for Cross-domain Recommendations  
+Chen, Lei and Yuan, Fajie and Yang, Jiaxi and He, Xiangnan and Li, Chengming and Yang, Min  
+IEEE Transactions on Knowledge and Data Engineering (TKDE) 2021  
+
+A Unified Framework for Cross-Domain and Cross-System Recommendations  
+Zhu, Feng and Wang, Yan and Zhou, Jun and Chen, Chaochao and Li, Longfei and Liu, Guanfeng  
+IEEE Transactions on Knowledge and Data Engineering (TKDE) 2021  
+
+##### Contrastive-Learning
+Contrastive Cross-domain Recommendation in Matching  
+Xie, Ruobing and Liu, Qi and Wang, Liangdong and Liu, Shukai and Zhang, Bo and Lin, Leyu  
+ACM Conference on Knowledge Discovery and Data Mining (SIGKDD'22)  
+
+Contrastive Cross-Domain Sequential Recommendation  
+Cao, Jiangxia and Cong, Xin and Sheng, Jiawei and Liu, Tingwen and Wang, Bin  
+ACM International Conference on Information and Knowledge Management (CIKM'22)  
+
+##### Disentangled Representation Learning
+DisenCDR Learning Disentangled Representations for Cross-Domain Recommendation  
+Cao, Jiangxia and Lin, Xixun and Cong, Xin and Ya, Jing and Liu, Tingwen and Wang, Bin  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'22)  
+
+Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck  
+Cao, Jiangxia and Sheng, Jiawei and Cong, Xin and Liu, Tingwen and Wang, Bin  
+IEEE International Conference on Data Engineering (ICDE'22)  
 
